@@ -1,6 +1,0 @@
-*.class
-*.prefs
-**/target/
-**/.settings/
-*.war
-*.jar
